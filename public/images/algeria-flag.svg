@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="200" height="150">
+  <rect width="300" height="200" fill="#fff"/>
+  <rect width="300" height="100" fill="#007229"/>
+  
+  <!-- Red crescent and star -->
+  <g transform="translate(150, 100)">
+    <!-- Red crescent -->
+    <path d="M0,-50 A50,50 0 0,1 42.5,-16.5 A65,65 0 0,0 72.5,16.5 A50,50 0 0,1 0,50 A50,50 0 0,1 -42.5,16.5 A65,65 0 0,0 -72.5,-16.5 A50,50 0 0,1 0,-50 Z" fill="#e31e24"/>
+    
+    <!-- Five-pointed star -->
+    <path d="M0,-25 L9.5,-8 L28.5,-6 L12.5,5.5 L15.5,20 L0,14 L-15.5,20 L-12.5,5.5 L-28.5,-6 L-9.5,-8 Z" fill="#e31e24" transform="scale(0.8)"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "pid": 25846,
+  "startedAt": 1791926577689,
+  "interactive": true,
+  "command": "dev",
+  "cwd": "/home/fx0_1/Documents/university-project-portal",
+  "port": 3000,
+  "hostname": "::1",
+  "url": "http://[::1]:3000"
+}
